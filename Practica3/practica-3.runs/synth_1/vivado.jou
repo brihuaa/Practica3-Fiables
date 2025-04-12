@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Apr  8 10:03:23 2025
+# Process ID         : 9136
+# Current directory  : C:/Users/031_svalderramaf/contador_redundante/contador_redundante.runs/synth_1
+# Command line       : vivado.exe -log redundancia.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source redundancia.tcl
+# Log file           : C:/Users/031_svalderramaf/contador_redundante/contador_redundante.runs/synth_1/redundancia.vds
+# Journal file       : C:/Users/031_svalderramaf/contador_redundante/contador_redundante.runs/synth_1\vivado.jou
+# Running On         : AB031IND071
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Xeon(R) Gold 6338N CPU @ 2.20GHz
+# CPU Frequency      : 2195 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 4
+# Host memory        : 17179 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18253 MB
+# Available Virtual  : 10714 MB
+#-----------------------------------------------------------
+source redundancia.tcl -notrace
